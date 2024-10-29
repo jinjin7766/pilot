@@ -26,7 +26,7 @@
 - **주요 기능**: 실시간 침입자 감지, 위험 알림, 비상 조치 기능.
   - **관련 주피터 노트북**
 - **시연 영상**:  
-  ![페결절 찾는]([http://user-images.githubusercontent.com/yourusername/your-video-file2.mp4](https://colab.research.google.com/drive/1zIizNeXCSj-tIaSBzH3ksc9MzawpPn-L))
+  ![페결절 찾는]((https://colab.research.google.com/drive/1zIizNeXCSj-tIaSBzH3ksc9MzawpPn-L))
 
 ---
 
