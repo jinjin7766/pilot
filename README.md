@@ -27,7 +27,7 @@
   - **관련 주피터 노트북**
   - [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/1zIizNeXCSj-tIaSBzH3ksc9MzawpPn-L?usp=sharing)
 - **시연 사진**:  
-  ![페결절 찾는]((https://colab.research.google.com/drive/1zIizNeXCSj-tIaSBzH3ksc9MzawpPn-L))
+  ![페결절 찾는]((https://github.com/jinjin7766/pilot/blob/main/%ED%8E%98%EA%B2%B0%EC%A0%88.png))
 
 ---
 
